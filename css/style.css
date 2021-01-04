@@ -117,7 +117,7 @@ Top Header Area
 }
 .search_area input[type="submit"]
 {
-    background: url(/Image/search.png);
+    background: url(Image/search.png);
     background-repeat: no-repeat;
     background-position: right;
     cursor: pointer;
